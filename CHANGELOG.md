@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2026-01-19
 
 ### Added
+- Bundle ElevenLabs API key and fix Intel Mac support
 - Add admin PIN dialog component
 - Add admin mode toggle, enhanced error handling, and expanded test coverage
 - Add admin PIN manager and comprehensive test suite
@@ -34,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Optimize app startup with lazy imports and deferred initialization
 
 ### Fixed
+- Update changelog URL to fetch from dub-io-docs repo
 - Activation dialog centering and blank window issues
 - Store user config in platform-specific locations
 - Add macOS support for tool detection and window centering
@@ -50,4 +52,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 | Version | Date | Highlights |
 |---------|------|------------|
-| 1.0.0 | 2026-01-19 | Add .DS_Store to gitignore, Activation dialog centering and blank wi..., Release: Version 1.0.0 |
+| 1.0.0 | 2026-01-19 | Bundle ElevenLabs API key and fix Intel ..., Update changelog URL to fetch from dub-i..., Add .DS_Store to gitignore |
