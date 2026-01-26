@@ -1,3 +1,10 @@
+---
+layout: default
+title: Changelog
+nav_order: 3
+description: "Version history and release notes"
+---
+
 # Changelog
 
 All notable changes to Dub.io will be documented in this file.

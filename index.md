@@ -1,6 +1,9 @@
 ---
-layout: default
-title: Dub.io Documentation
+layout: home
+title: Home
+nav_order: 1
+description: "Video translation and dubbing powered by AI"
+permalink: /
 ---
 
 # Dub.io

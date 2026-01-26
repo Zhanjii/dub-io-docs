@@ -1,3 +1,10 @@
+---
+layout: default
+title: User Guide
+nav_order: 2
+description: "How to use Dub.io"
+---
+
 # Dub.io User Guide
 
 ## Getting Started
